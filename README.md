@@ -48,7 +48,7 @@ Run tests:
 npx hardhat test
 ```
 
-Deploy smart contracts using script:  
+## Deploy smart contracts using script:  
 Local environment:
 ```shell
 npx hardhat run scripts/deploy.js
